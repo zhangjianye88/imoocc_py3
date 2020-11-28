@@ -1,6 +1,10 @@
+
+
+Flask==1.1.2
 alabaster==0.7.10
 amqp==2.3.2
-ansible==2.4.1.0
+#ansible==2.4.1.0
+ansible==2.10.3
 appnope==0.1.0
 asn1crypto==0.22.0
 asyncssh==1.13.0
@@ -22,7 +26,8 @@ construct==2.5.3
 cryptography==2.1.1
 decorator==4.1.2
 diff-match-patch==20121119
-Django==1.8.2
+#Django==1.8.2
+Django==3.1.3
 django-bootstrap-form==3.2
 django-celery-beat==1.1.1
 django-ckeditor==5.3.0
@@ -155,3 +160,5 @@ widgetsnbextension==3.0.2
 xlrd==1.1.0
 XlsxWriter==0.7.7
 xlwt==1.3.0
+
+
